@@ -14,7 +14,6 @@ I had been an NPP personnel training engineer. After all I've decided to change 
 ### Projects
 
 :1st_place_medal: [About production optimization](https://github.com/pl0mbeer/prod_optimization): preprocessing, EDA, keras, scikit-learn, lightgbm, catboost
-
 :2nd_place_medal: [About customers return](https://github.com/pl0mbeer/customers_return): preprocessing, EDA, scikit-learn, catboost, lightgbm
 :3rd_place_medal: [About star temperature](https://github.com/pl0mbeer/star_temperature): preprocessing, EDA, scikit-learn, pytorch
 :notebook: [About persoanl offers](https://github.com/pl0mbeer/personal_offers): preprocessing, EDA, scikit-learn
