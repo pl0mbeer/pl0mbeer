@@ -28,6 +28,7 @@ I had been an NPP personnel training engineer. After all I've decided to change 
 :orange_book: [Project with Ensembles](https://github.com/pl0mbeer/car_accident_risk)
 
 :orange_book: [Project with Text Mining](https://github.com/pl0mbeer/comment_classification)
+
 ----------------------------
 
 ### Socials
