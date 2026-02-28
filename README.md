@@ -12,14 +12,14 @@ I had been an NPP personnel training engineer. After all I've decided to change 
 ----------------------------
 
 ### Projects
-</p>
-:1st_place_medal: [About production optimization](https://github.com/pl0mbeer/prod_optimization): preprocessing, EDA, keras, scikit-learn, lightgbm, catboost </p>
-:2nd_place_medal: [About customers return](https://github.com/pl0mbeer/customers_return): preprocessing, EDA, scikit-learn, catboost, lightgbm </p>
-:3rd_place_medal: [About star temperature](https://github.com/pl0mbeer/star_temperature): preprocessing, EDA, scikit-learn, pytorch </p>
-:notebook: [About persoanl offers](https://github.com/pl0mbeer/personal_offers): preprocessing, EDA, scikit-learn </p>
-:orange_book: [Project with Time Series](https://github.com/pl0mbeer/taxi_orders) </p>
-:orange_book: [Project with CV](https://github.com/pl0mbeer/image_search) </p>
-:orange_book: [Project with Ensembles](https://github.com/pl0mbeer/car_accident_risk) </p>
+<br>
+:1st_place_medal: [About production optimization](https://github.com/pl0mbeer/prod_optimization): preprocessing, EDA, keras, scikit-learn, lightgbm, catboost <br>
+:2nd_place_medal: [About customers return](https://github.com/pl0mbeer/customers_return): preprocessing, EDA, scikit-learn, catboost, lightgbm <br>
+:3rd_place_medal: [About star temperature](https://github.com/pl0mbeer/star_temperature): preprocessing, EDA, scikit-learn, pytorch <br>
+:notebook: [About persoanl offers](https://github.com/pl0mbeer/personal_offers): preprocessing, EDA, scikit-learn <br>
+:orange_book: [Project with Time Series](https://github.com/pl0mbeer/taxi_orders) <br>
+:orange_book: [Project with CV](https://github.com/pl0mbeer/image_search) <br>
+:orange_book: [Project with Ensembles](https://github.com/pl0mbeer/car_accident_risk) <br>
 :orange_book: [Project with Text Mining](https://github.com/pl0mbeer/comment_classification)
 ----------------------------
 
