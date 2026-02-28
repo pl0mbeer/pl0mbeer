@@ -12,4 +12,4 @@ I had been an NPP personnel training engineer. After all I've decided to change 
 
 ### Socials
 
-<p align="left"> <a href="https://t.me/pl0mb33r" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="[[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg](http://www.w3.org/2000/svg)](http://www.w3.org/2000/svg)" /> <source media="(prefers-color-scheme: light)" srcset="http://www.w3.org/2000/svg" /> <img src="http://www.w3.org/2000/svg" width="32" height="32" alt="TG" title="TG" /> </picture> </a></p>
+<p align="left"> <a href="https://t.me/pl0mb33r" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="[https://cdn-icons-png.freepik.com/512/4423/4423663.png](https://cdn-icons-png.freepik.com/512/4423/4423663.png)" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn-icons-png.freepik.com/512/4423/4423663.png" /> <img src="https://cdn-icons-png.freepik.com/512/4423/4423663.png" width="32" height="32" alt="TG" title="TG" /> </picture> </a></p>
