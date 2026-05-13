@@ -52,5 +52,6 @@ I had been an NPP personnel training engineer. After all I've decided to change 
        alt="LinkedIn" 
        width="32" 
        height="32"
-       style="vertical-align: middle;">
+       style="vertical-align: middle;"
+       alt="LinkedIn" title="LinkedIn">
 </a> </p>
