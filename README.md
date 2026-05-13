@@ -23,6 +23,8 @@ I had been an NPP personnel training engineer. After all I've decided to change 
 
 ### Projects
 
+:large_blue_diamond: [Renaming of files after OCR](https://github.com/pl0mbeer/sefer_project): CRNN, CV, Yolo11
+
 :1st_place_medal: [About production optimization](https://github.com/pl0mbeer/prod_optimization): preprocessing, EDA, keras, scikit-learn, lightgbm, catboost
 
 :2nd_place_medal: [About customers return](https://github.com/pl0mbeer/customers_return): preprocessing, EDA, scikit-learn, catboost, lightgbm
